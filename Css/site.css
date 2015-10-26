@@ -1,5 +1,8 @@
+body{
+  x-overflow:none;
+}
 #home {
-  background-image: url(http://img822.imageshack.us/img822/5552/h9px.png);
+  background-image: url(https://d13yacurqjgara.cloudfront.net/users/391946/screenshots/1800309/nexus_6_psd.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   min-width: 100%;
@@ -10,8 +13,8 @@
 
 #banner-text {
   position: relative;
-  top: 30%;
-  color: #000;
+  top: 70%;
+  color: #00C853;
 }
 #subscribe-form{
   position: relative;
