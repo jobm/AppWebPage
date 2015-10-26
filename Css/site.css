@@ -1,5 +1,5 @@
 body{
-  x-overflow:none;
+  overflow-x:none;
 }
 #home {
   background-image: url(https://d13yacurqjgara.cloudfront.net/users/391946/screenshots/1800309/nexus_6_psd.jpg);
@@ -14,7 +14,7 @@ body{
 #banner-text {
   position: relative;
   top: 70%;
-  color: #00C853;
+  color: #fff;
 }
 #subscribe-form{
   position: relative;
